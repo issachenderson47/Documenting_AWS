@@ -1,0 +1,47 @@
+
+Table of Contents
+
+Project Overview
+
+Setting the Stage for Consistent and Automated Deployments
+Introduction to AWS CodeBuild for Streamlined Source Code Compilation
+Ensuring Consistency Across Environments with CodeBuild
+Building and Deploying with AWS Services
+
+Constructing the Website with AWS CodeBuild
+Configuration Guide for Website Compilation
+Automating Build and Packaging Processes
+Deploying with Confidence: An Overview of AWS CodeDeploy
+Establishing Deployment Groups and IAM Permissions
+Managing Deployments, Rollbacks, and Monitoring
+Achieving Continuous Delivery through AWS CodePipeline Integration
+Creating an Automated Pipeline for Build, Test, and Deployment Stages
+Integrating CodeBuild and CodeDeploy for Seamless Operations
+Optimizing Performance and Security
+
+Best Practices for Enhanced Website Performance and Security
+Utilizing Amazon VPC for Resource Isolation and Access Controls
+Leveraging Amazon S3 for Efficient Static Asset Storage and Website Hosting
+Collaboration and Documentation
+
+Enabling Accessibility and Collaboration
+Sharing the GitHub Repository for Open Source Code Exploration
+Fostering a Culture of Contributions and Improvements
+Project Documentation (Technical Details)
+
+Data Foundations
+Data Sources: Identification and Explanation
+Tools and Technologies: A Comprehensive Overview
+Data Preparation
+Data Cleaning and Preparation Steps
+Exploratory Data Analysis
+Insights from Exploratory Techniques
+Data Analysis
+Presentation and Discussion of Analysis Methods
+SQL Query Example
+Results and Recommendations
+Key Findings and Recommendations
+Acknowledging Limitations
+References
+Citations and References
+End of Table of Contents
